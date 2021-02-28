@@ -1,0 +1,19 @@
+body
+{
+    background-color: blueviolet;
+}
+
+h1
+{
+    color: brown;
+    text-align: center;
+    border: 10px;
+    border-color: black;
+    background-color: azure;
+}
+
+p
+{
+    color:lavender;
+    
+}
